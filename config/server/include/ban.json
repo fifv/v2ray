@@ -1,7 +1,7 @@
 			{
 				"type": "field",
 				"domain": [
-					"domain:fuckyouzhinazhu.com",
+					"domain:fuckyouzhinazhu.com"
 				],
 				"outboundTag": "blocked"
 			}
